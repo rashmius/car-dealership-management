@@ -1,4 +1,4 @@
-# car-dealership-management
+# DB for Car Dealership Management
 
 ## About
 
